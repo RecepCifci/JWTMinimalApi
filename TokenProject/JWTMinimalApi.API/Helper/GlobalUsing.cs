@@ -1,0 +1,9 @@
+﻿global using JWTMinimalApi.API.Services;
+global using JWTMinimalApi.API.Services.Implementations;
+global using JWTMinimalApi.API.Helper;
+global using Microsoft.AspNetCore.Mvc;
+global using JWTMinimalApi.API.Dtos;
+global using JWTMinimalApi.API.Model.Request;
+global using AutoMapper;
+global using JWTMinimalApi.API.Settings;
+global using JWTMinimalApi.API.Model.Response;
